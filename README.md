@@ -9,6 +9,7 @@ Here are some of the programming languages I'm familiar with:
  - Core Java
  - Python
  - HTML/CSS
+ - JavaScript
 
 🤝 Let's Connect
 
